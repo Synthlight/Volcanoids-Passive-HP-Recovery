@@ -1,4 +1,7 @@
 {
     "LoadGroup": 0,
-    "Version": "1.1"
+    "Version": "1.1",
+    "UniqueModId": "Passive-HP-Recovery",
+    "Title": "Slow Passive HP Recovery",
+    "MultiplayerMode": 0
 }
